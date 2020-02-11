@@ -18,4 +18,4 @@ Color is changing randomly
 | Data | Render | Simulation | Events |
 | ------------- | ------------- | ------------- | ------------- |
 | Keypressed | animation activates | / | Feedback on will display the clicked area.  |
-| | Radom color | / | Backtrack on will It will loop music. |
+| Mouse's movement | Radom color | / | Backtrack on will It will loop music. |
